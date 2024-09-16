@@ -1,0 +1,3 @@
+#USER CASE IN DISCORD ZKM TASK
+
+![USER_CASE_PROOF](insurance.png)
